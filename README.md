@@ -13,8 +13,12 @@
 # 5주차 (2022-04-05)
 - 이미지 바꾸기 버튼으로 뷰의 이미지 바꾸기
 ---
+***소스 파일***
 <img width="" height="" src="./pic/메인.png"></img>
 <img width="" height="" src="./pic/액티비티.png"></img>
+
+---
+***실행 화면***
 <img width="" height="" src="./pic/dog.png"></img>
 <img width="" height="" src="./pic/puppy.png"></img>
 

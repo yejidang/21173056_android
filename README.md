@@ -33,3 +33,14 @@
 ***height***
 <img width="" height="" src="./pic/height1.png"></img>
 <img width="" height="" src="./pic/height2.png"></img>
+
+# 10주차 (2022-05-10)
+- 여러 화면 만들고 화면 간 전환하기
+---
+***Menu***
+<img width="" height="" src="./pic/10_1.png"></img>
+
+---
+***Main***
+<img width="" height="" src="./pic/10_2.png"></img>
+<img width="" height="" src="./pic/10_3.png"></img>

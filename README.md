@@ -44,3 +44,10 @@
 ***Main***
 <img width="" height="" src="./pic/10_2.png"></img>
 <img width="" height="" src="./pic/10_3.png"></img>
+
+# 11주차 (2022-05-17)
+- 웹으로 요청하기
+---
+***실행 화면***
+<img width="" height="" src="./pic/11_1.png"></img>
+<img width="" height="" src="./pic/11_2.png"></img>
